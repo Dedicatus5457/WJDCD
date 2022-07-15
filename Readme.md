@@ -7,7 +7,7 @@
 # A
 
 -   AOSP：Android Open Source Project，由 Google 主导的安卓开源项目，提供Android信息与源代码。原生 Android、鸿蒙 Harmony OS 以及各种 OEM 定制版 Android、类原生Android ROM 项目均基于 AOSP。
--   adb：指 Android Debug Bridge，安卓调试桥。是一种功能多样的命令行工具，使电脑与安卓设备进行通讯。adb 命令可用于执行各种设备操作（例如安装和调试应用），并提供对 Unix shell（可用来在设备上运行各种命令）的访问权限。
+-   adb：指 Android Debug Bridge（安卓调试桥)。是一种功能多样的命令行工具，使电脑与安卓设备进行通讯。adb 命令可用于执行各种设备操作（例如安装和调试应用），并提供对 Unix shell（可用来在设备上运行各种命令）的访问权限。
 -   AzizOut：
 -   A.i.X：
 -   奥利奥：指安卓8。
@@ -97,7 +97,7 @@
 -   巨硬：指微软。
 -   菊花厂：指华为。
 -   橘子：指 VIVO 新系统 OriginOS，因读音近似 Orange 而被称为橘子系统、烂橘子，这个梗起源于游戏平台 Origin。
--   jvav：指Java，因一位名叫张昊阳的人在我的世界2B2T群里说"我会jvav"而著名。现常被大佬们用于表示自己不会Java，是一种谦虚的说辞。
+-   jvav：指Java，因一位名叫张浩扬的小学生在我的世界2B2T群里说"我会jvav"而著名。现常被大佬们用于表示自己不会Java，是一种谦虚的说辞。
 
 # K
 
@@ -107,7 +107,7 @@
 -   卡兔子：用户对小米/红米手机 Fastboot 模式下有一只兔子而对手机卡在 Fastboot 模式无法开机的习惯性称呼。
 -   卡一：①SIM卡1。②开机过程中卡在第一屏不开机。
 -   空调狗：
--   扩容：
+-   扩容：一般指扩容手机system分区，常见于ProjectTreble圈。因很多gsi/sgsi都比手机原system分区大小大的多。此操作可以刷入更大的system.img(gsi/sgsi)
 
 # L
 
@@ -205,7 +205,7 @@
 
 -   钛备份：
 -   通刷包：同 GSI。
--   土豆：
+-   土豆：POSP，一个类原生ROM。
 -   兔子模式：小米用户对 Fastboot 模式的习惯性称呼。因为小米手机的 Fastboot 模式显示米兔图片。
 -   TencentOS：腾讯早期开发的基于 Android 的 ROM，现已停止开发。
 -   TNT：锤子科技坚果 TNT 工作站的简称。
@@ -255,7 +255,7 @@
 
 # Y
 
--   洋垃圾：一般指LG手机。
+-   洋垃圾：一般指LG,GoogleNexus/pxiel，夏普，索尼等国外手机。因为其大多在国内二手价格极具性价比，深受国内垃圾佬喜爱，故得名“洋垃圾”。
 -   移动叔叔：
 -   樱花：Project Sakura，一款二次元类原生 ROM。
 -   萤火虫团队：安卓不倒，我们不散！
