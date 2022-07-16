@@ -23,7 +23,7 @@
 
 -   CM：全称 CyanogenMod，一款早期的知名类原生 ROM。
 -   ColorOS：OPPO，一加官方系统。
--   crd：指 CrDroid，一款类原生 ROM，基于 LineageOS。
+-   crd：CrDroid的简称，一款类原生 ROM，基于 LineageOS。可以看做Lineage OS的自定义版。
 -   CWM：早期流行的 Recovery，在 TWRP 出现后逐渐被取缔。
 -   残芯此生不换：Rec 编译适配大佬。
 -   晨钟酱：CZJam，酷安知名玩机大佬，若干款免 Root 玩机工具箱开发者。
@@ -69,7 +69,7 @@
 -   固件：同“ROM“。
 -   光猫：光调制解调器，也称为单端口光端机或光猫，是针对特殊用户环境而研发的一种三件一套的光纤传输设备。该设备采用大规模集成芯片，电路简单，功耗低，可靠性高，具有完整的告警状态指示和完善的网管功能。
 -   GAPPS：即 Google APPs，谷歌套件。若类原生 ROM 文件名中带有 "gapps" 字样，则意味着该 ROM 内置谷歌套件。
--   Gayhub：Github的戏称。
+-   Gayhub：Github的戏称。因男女比例失衡严重。
 -   Github：基于git的计算机软件源代码在线托管网站，于2018年被微软收购。
 -   GSI：Generic System Image，中文名通用系统镜像，简称通刷包。Project Treble 机制的产物。GSI 就是一个经过处理的 system 镜像文件（system.img），刷入方式就是将其刷入 system 分区。只有安卓8及以上的系统才能用来制作 GSI，只有支持 Project Treble 的设备（一般出厂安卓8及以上均支持）才能刷入 GSI。刷入 GSI 后不一定可以开机，开机后也可能存在各种 bug。但 GSI 无疑使 ROM 移植和体验新系统方便了不少。
 
