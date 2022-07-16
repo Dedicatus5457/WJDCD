@@ -55,11 +55,11 @@
 # F
 
 -   Fastboot 模式：中文名引导模式，俗称线刷模式。在解锁 BL 锁的条件下，进入此模式可以连接电脑线刷。一般用来救砖。小米红米手机进入 Fastboot 模式的方法是长按电源键和音量减。华为荣耀手机进入 Fastboot 模式的方法是数据线连接电脑的情况下长按电源键和音量减。
--   Fastbootd：用户 Fastboot 模式，常见于动态分区手机上。
+-   Fastbootd：用户 Fastboot 模式，常见于动态分区手机上。在fastbootd内，您可以刷写super内的system,product,vendor。
 -   fb：Fastboot 的简称。
 -   FIUI：Future Interactive UI，国内首个民间第三方ROM，官网：<http://www.fiui.org/>
 -   Flyme：魅族官方系统。
--   FuntouchOS：VIVO 早期的操作系统。
+-   FuntouchOS：VIVO手机早期使用的安卓深度定制OS，现已被Origin OS（原系统）取代。
 
 # G
 
@@ -203,8 +203,8 @@
 
 # T
 
--   钛备份：
--   通刷包：同 GSI。
+-   钛备份：需要roo权限的一款备份软件。（因年久失修bug过多且在Android R及以上无法正常使用，已被高雄佬的备份脚本和其他备份软件取代）
+-   通刷包：一般指sgsi/gsi
 -   土豆：POSP，一个类原生ROM。
 -   兔子模式：小米用户对 Fastboot 模式的习惯性称呼。因为小米手机的 Fastboot 模式显示米兔图片。
 -   TencentOS：腾讯早期开发的基于 Android 的 ROM，现已停止开发。
